@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Biblioteca Campus
 
 Sistema de gestión de libros, autores, publicaciones, transacciones y miembros de la Biblioteca Campus.
@@ -125,3 +126,6 @@ WHERE p.fecha_publicacion = (
     WHERE p2.id_libro = l.id_libro
 );
 ```
+=======
+# -4H-Biblioteca-Campus-Raymond-Zabala
+>>>>>>> 47232df3210c896f5d507baff70564c70bbcf5a9
